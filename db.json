@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "c892",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "a125",
+      "username": "mk",
+      "email": "mk@gmail.com",
+      "password": "mk"
+    },
+    {
+      "id": "c64f",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "b75e",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "ea55",
+      "username": "raja",
+      "email": "raja@gmail.com",
+      "password": "123"
+    }
+  ],
+  "Students": [
+    {
+      "id": "1",
+      "name": "Raja",
+      "score": "95",
+      "iq": "91",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKBQfPR9noyjCZ5NsRATdrqXYlwI9Skcty9eTHFhLiz=s360-c-no"
+    },
+    {
+      "id": "7a14",
+      "name": "gojo",
+      "score": "89",
+      "iq": "89",
+      "image": "https://bloganchoi.com/wp-content/uploads/2022/05/satoru-gojo-1.jpg"
+    },
+    {
+      "id": "6639",
+      "name": "nanami",
+      "score": "88",
+      "iq": "91",
+      "image": "https://i.pinimg.com/736x/40/6c/42/406c42bbe3c58a99553e569e1ffc114a.jpg"
+    },
+    {
+      "id": "0ab9",
+      "name": "munisha",
+      "score": "100",
+      "iq": "87",
+      "image": "112"
+    }
+  ]
+}
